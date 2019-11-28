@@ -1,4 +1,7 @@
 <?php
+
+//unico file esposto al webserver
+
 declare(strict_types=1);
 
 chdir(dirname(__DIR__));
